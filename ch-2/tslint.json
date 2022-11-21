@@ -1,0 +1,10 @@
+{
+    "defaultSeverity": true,
+    "extends": [
+        "tsling:recommended"
+    ],
+    "rules": {
+        "semicolon": true,
+        "trailing-comma": false
+    }
+}
